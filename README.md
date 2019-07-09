@@ -1,2 +1,2 @@
 # Mad-Bots-Playground
-1. in-your-pants-bot
+Source code for telegram/vk bots with strange functions
