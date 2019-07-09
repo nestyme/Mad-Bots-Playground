@@ -1,4 +1,4 @@
-token='807872051:AAGaedVqrwtwVfKRgwygTzwGTSsOh3JVjGU'
+token=''
 import telebot
 from PIL import Image, ImageDraw, ImageFont
 from urllib.request import urlretrieve
