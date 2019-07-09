@@ -13,3 +13,5 @@ telebot
 PIL
 
 install https://github.com/susheelsk/image-background-removal (don't forget to download *.pb files)
+
+to get pretrained weights run ```setup.sh```
