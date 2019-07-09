@@ -14,5 +14,6 @@ python3
 to run bot set your token='...' 
 
 in bot.py and run:
-python3 bot.py
+
+**python3 bot.py**
 
